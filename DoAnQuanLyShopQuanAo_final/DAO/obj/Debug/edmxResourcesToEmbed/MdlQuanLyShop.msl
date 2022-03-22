@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ShopQuanAoModelStoreContainer" CdmEntityContainer="ShopQuanAoEntities">
+    <EntitySetMapping Name="CT_HoaDon">
+      <EntityTypeMapping TypeName="ShopQuanAoModel.CT_HoaDon">
+        <MappingFragment StoreEntitySet="CT_HoaDon">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HoaDons">
+      <EntityTypeMapping TypeName="ShopQuanAoModel.HoaDon">
+        <MappingFragment StoreEntitySet="HoaDon">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="NgayLapHD" ColumnName="NgayLapHD" />
+          <ScalarProperty Name="IDNVien" ColumnName="IDNVien" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhanViens">
+      <EntityTypeMapping TypeName="ShopQuanAoModel.NhanVien">
+        <MappingFragment StoreEntitySet="NhanVien">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Phai" ColumnName="Phai" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="SoNgayNghi" ColumnName="SoNgayNghi" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QuanAos">
+      <EntityTypeMapping TypeName="ShopQuanAoModel.QuanAo">
+        <MappingFragment StoreEntitySet="QuanAo">
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="Loai" ColumnName="Loai" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="GiamGia" ColumnName="GiamGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="ShopQuanAoModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaiKhoans">
+      <EntityTypeMapping TypeName="ShopQuanAoModel.TaiKhoan">
+        <MappingFragment StoreEntitySet="TaiKhoan">
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="LoaiTK" ColumnName="LoaiTK" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="IdTK" ColumnName="IdTK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="CAPNHATHD" FunctionName="ShopQuanAoModel.Store.CAPNHATHD" />
+    <FunctionImportMapping FunctionImportName="CAPNHATNV" FunctionName="ShopQuanAoModel.Store.CAPNHATNV" />
+    <FunctionImportMapping FunctionImportName="CAPNHATTK" FunctionName="ShopQuanAoModel.Store.CAPNHATTK" />
+    <FunctionImportMapping FunctionImportName="SPKHONGBANDUOC" FunctionName="ShopQuanAoModel.Store.SPKHONGBANDUOC">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ShopQuanAoModel.SPKHONGBANDUOC_Result">
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="Loai" ColumnName="Loai" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="GiamGia" ColumnName="GiamGia" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SUASANPHAM" FunctionName="ShopQuanAoModel.Store.SUASANPHAM" />
+    <FunctionImportMapping FunctionImportName="THEMCT_HOADON" FunctionName="ShopQuanAoModel.Store.THEMCT_HOADON" />
+    <FunctionImportMapping FunctionImportName="THEMHOADON" FunctionName="ShopQuanAoModel.Store.THEMHOADON" />
+    <FunctionImportMapping FunctionImportName="THEMNV" FunctionName="ShopQuanAoModel.Store.THEMNV" />
+    <FunctionImportMapping FunctionImportName="THEMSANPHAM" FunctionName="ShopQuanAoModel.Store.THEMSANPHAM" />
+    <FunctionImportMapping FunctionImportName="THEMTK" FunctionName="ShopQuanAoModel.Store.THEMTK" />
+    <FunctionImportMapping FunctionImportName="TONGTIENTHEONGAY" FunctionName="ShopQuanAoModel.Store.TONGTIENTHEONGAY" />
+    <FunctionImportMapping FunctionImportName="XOAHD" FunctionName="ShopQuanAoModel.Store.XOAHD" />
+    <FunctionImportMapping FunctionImportName="XOANV" FunctionName="ShopQuanAoModel.Store.XOANV" />
+    <FunctionImportMapping FunctionImportName="XOASANPHAM" FunctionName="ShopQuanAoModel.Store.XOASANPHAM" />
+    <FunctionImportMapping FunctionImportName="XOATK" FunctionName="ShopQuanAoModel.Store.XOATK" />
+  </EntityContainerMapping>
+</Mapping>

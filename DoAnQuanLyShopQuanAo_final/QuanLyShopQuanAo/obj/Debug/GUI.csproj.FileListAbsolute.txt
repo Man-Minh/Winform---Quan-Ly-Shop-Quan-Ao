@@ -1,0 +1,181 @@
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongKe.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongKe.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmCT_HoaDon.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmDangKy.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmGiaoDien.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmHoaDon.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmDangNhap.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmSanPham.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmNhanVien.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmQuanLy.resources
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmTaiKhoan.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmCT_HoaDon.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmGiaoDien.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmHoaDon.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmDangNhap.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongKe.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmSanPham.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmNhanVien.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmQuanLy.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmTaiKhoan.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongTinTaiKhoan.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmCT_HoaDon.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmGiaoDien.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmHoaDon.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmDangNhap.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongKe.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmSanPham.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmNhanVien.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmQuanLy.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmTaiKhoan.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongTinTaiKhoan.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\RdlCompile.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\RdlCompile.compiled
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmCT_HoaDon.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmGiaoDien.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmHoaDon.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmDangNhap.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmSanPham.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmNhanVien.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmQuanLy.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmTaiKhoan.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongTinTaiKhoan.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\RdlCompile.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\RdlCompile.compiled
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\BUS.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DTO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\DAO.dll.config
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmCT_HoaDon.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmGiaoDien.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmHoaDon.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmDangNhap.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongKe.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmSanPham.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmNhanVien.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmQuanLy.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmTaiKhoan.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongTinTaiKhoan.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\GUI.csproj.CopyComplete
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmCT_HoaDon.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmGiaoDien.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmHoaDon.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmDangNhap.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongKe.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmSanPham.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmNhanVien.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmQuanLy.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmTaiKhoan.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongTinTaiKhoan.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\RdlCompile.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\RdlCompile.compiled
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmNoiDungThongKe.resources
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmThongKeSanPham.resources

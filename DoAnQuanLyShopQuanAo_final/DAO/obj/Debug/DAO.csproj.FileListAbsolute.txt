@@ -1,0 +1,74 @@
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll.config
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll.config
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll.config
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll.config
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DAO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\DTO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DAO\obj\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\DAO.dll.config
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\obj\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DAO\obj\Debug\DAO.pdb

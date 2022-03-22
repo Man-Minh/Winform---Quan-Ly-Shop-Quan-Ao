@@ -1,0 +1,23 @@
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DTO\bin\Debug\DTO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\DTO\obj\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DTO\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DTO\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DTO\obj\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DTO\obj\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

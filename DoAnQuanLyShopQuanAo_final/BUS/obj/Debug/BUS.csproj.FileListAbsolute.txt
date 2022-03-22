@@ -1,0 +1,69 @@
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Desktop\Downloads\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\BUS.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DAO.dll.config
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\DTO.pdb
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.dll
+E:\Tài liệu HK II\DoAnQuanLyShopQuanAo\BUS\obj\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\BUS.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\DAO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\DTO.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\EntityFramework.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\DAO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\DTO.pdb
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\bin\Debug\EntityFramework.xml
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\obj\Debug\BUS.dll
+E:\Tài liệu HK IV\LẬP TRÌNH WINDOW\4.Đồ An\DoAnQuanLyShopQuanAo_final\BUS\obj\Debug\BUS.pdb

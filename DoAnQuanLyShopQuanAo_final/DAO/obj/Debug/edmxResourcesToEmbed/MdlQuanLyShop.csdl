@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShopQuanAoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CT_HoaDon">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaHD" Type="String" MaxLength="3" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MaSP" Type="String" MaxLength="3" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="DonGia" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="TrangThai" Type="Int32" />
+    <NavigationProperty Name="HoaDon" Relationship="Self.FK__CT_HoaDon__MaHD__5DCAEF64" FromRole="CT_HoaDon" ToRole="HoaDon" />
+    <NavigationProperty Name="QuanAo" Relationship="Self.FK__CT_HoaDon__MaSP__5EBF139D" FromRole="CT_HoaDon" ToRole="QuanAo" />
+  </EntityType>
+  <EntityType Name="HoaDon">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="String" MaxLength="3" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="NgayLapHD" Type="DateTime" Precision="3" />
+    <Property Name="IDNVien" Type="Int32" />
+    <Property Name="TrangThai" Type="Int32" />
+    <Property Name="ThanhTien" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="CT_HoaDon" Relationship="Self.FK__CT_HoaDon__MaHD__5DCAEF64" FromRole="HoaDon" ToRole="CT_HoaDon" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK__HoaDon__IDNVien__4222D4EF" FromRole="HoaDon" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <Property Name="Phai" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+    <Property Name="Luong" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="SDT" Type="String" MaxLength="12" FixedLength="true" Unicode="false" />
+    <Property Name="SoNgayNghi" Type="Int32" />
+    <Property Name="TrangThai" Type="Int32" />
+    <NavigationProperty Name="HoaDons" Relationship="Self.FK__HoaDon__IDNVien__4222D4EF" FromRole="NhanVien" ToRole="HoaDon" />
+  </EntityType>
+  <EntityType Name="QuanAo">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="TenSP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MaSP" Type="String" MaxLength="3" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Loai" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="Size" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="DonGia" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Anh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TrangThai" Type="Int32" />
+    <Property Name="GiamGia" Type="Int32" />
+    <NavigationProperty Name="CT_HoaDon" Relationship="Self.FK__CT_HoaDon__MaSP__5EBF139D" FromRole="QuanAo" ToRole="CT_HoaDon" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="IdTK" />
+    </Key>
+    <Property Name="TenDangNhap" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="LoaiTK" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="TrangThai" Type="Int32" />
+    <Property Name="ID" Type="Int32" />
+    <Property Name="IdTK" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <Association Name="FK__CT_HoaDon__MaHD__5DCAEF64">
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="1" />
+    <End Role="CT_HoaDon" Type="Self.CT_HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoaDon">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="CT_HoaDon">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CT_HoaDon__MaSP__5EBF139D">
+    <End Role="QuanAo" Type="Self.QuanAo" Multiplicity="1" />
+    <End Role="CT_HoaDon" Type="Self.CT_HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QuanAo">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="CT_HoaDon">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__HoaDon__IDNVien__4222D4EF">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="IDNVien" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ShopQuanAoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CT_HoaDon" EntityType="Self.CT_HoaDon" />
+    <EntitySet Name="HoaDons" EntityType="Self.HoaDon" />
+    <EntitySet Name="NhanViens" EntityType="Self.NhanVien" />
+    <EntitySet Name="QuanAos" EntityType="Self.QuanAo" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="TaiKhoans" EntityType="Self.TaiKhoan" />
+    <AssociationSet Name="FK__CT_HoaDon__MaHD__5DCAEF64" Association="Self.FK__CT_HoaDon__MaHD__5DCAEF64">
+      <End Role="HoaDon" EntitySet="HoaDons" />
+      <End Role="CT_HoaDon" EntitySet="CT_HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CT_HoaDon__MaSP__5EBF139D" Association="Self.FK__CT_HoaDon__MaSP__5EBF139D">
+      <End Role="QuanAo" EntitySet="QuanAos" />
+      <End Role="CT_HoaDon" EntitySet="CT_HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__HoaDon__IDNVien__4222D4EF" Association="Self.FK__HoaDon__IDNVien__4222D4EF">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="HoaDon" EntitySet="HoaDons" />
+    </AssociationSet>
+    <FunctionImport Name="CAPNHATHD">
+      <Parameter Name="mahd" Mode="In" Type="String" />
+      <Parameter Name="ngaylap" Mode="In" Type="DateTime" />
+      <Parameter Name="idNVien" Mode="In" Type="Int32" />
+      <Parameter Name="thanhTien" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="CAPNHATNV">
+      <Parameter Name="id" Mode="In" Type="Int32" />
+      <Parameter Name="ten" Mode="In" Type="String" />
+      <Parameter Name="ngsinh" Mode="In" Type="DateTime" />
+      <Parameter Name="phai" Mode="In" Type="String" />
+      <Parameter Name="luong" Mode="In" Type="Decimal" />
+      <Parameter Name="sdt" Mode="In" Type="String" />
+      <Parameter Name="ngaynghi" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="CAPNHATTK">
+      <Parameter Name="mk" Mode="In" Type="String" />
+      <Parameter Name="tentk" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SPKHONGBANDUOC" ReturnType="Collection(ShopQuanAoModel.SPKHONGBANDUOC_Result)">
+      <Parameter Name="thang" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SUASANPHAM">
+      <Parameter Name="tensp" Mode="In" Type="String" />
+      <Parameter Name="masp" Mode="In" Type="String" />
+      <Parameter Name="loai" Mode="In" Type="String" />
+      <Parameter Name="size" Mode="In" Type="String" />
+      <Parameter Name="soluong" Mode="In" Type="Int32" />
+      <Parameter Name="dongia" Mode="In" Type="Decimal" />
+      <Parameter Name="giamgia" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="THEMCT_HOADON">
+      <Parameter Name="mahd" Mode="In" Type="String" />
+      <Parameter Name="masp" Mode="In" Type="String" />
+      <Parameter Name="soluong" Mode="In" Type="Int32" />
+      <Parameter Name="dongia" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="THEMHOADON">
+      <Parameter Name="mahd" Mode="In" Type="String" />
+      <Parameter Name="ngaylap" Mode="In" Type="DateTime" />
+      <Parameter Name="id" Mode="In" Type="Int32" />
+      <Parameter Name="thanhtien" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="THEMNV">
+      <Parameter Name="ten" Mode="In" Type="String" />
+      <Parameter Name="ngsinh" Mode="In" Type="DateTime" />
+      <Parameter Name="phai" Mode="In" Type="String" />
+      <Parameter Name="luong" Mode="In" Type="Decimal" />
+      <Parameter Name="sdt" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="THEMSANPHAM">
+      <Parameter Name="tensp" Mode="In" Type="String" />
+      <Parameter Name="masp" Mode="In" Type="String" />
+      <Parameter Name="loai" Mode="In" Type="String" />
+      <Parameter Name="size" Mode="In" Type="String" />
+      <Parameter Name="soluong" Mode="In" Type="Int32" />
+      <Parameter Name="dongia" Mode="In" Type="Decimal" />
+      <Parameter Name="anh" Mode="In" Type="String" />
+      <Parameter Name="giamgia" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="THEMTK">
+      <Parameter Name="tentk" Mode="In" Type="String" />
+      <Parameter Name="mk" Mode="In" Type="String" />
+      <Parameter Name="loai" Mode="In" Type="String" />
+      <Parameter Name="id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="TONGTIENTHEONGAY" ReturnType="Collection(Decimal)">
+      <Parameter Name="ngay1" Mode="In" Type="DateTime" />
+      <Parameter Name="ngay2" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="XOAHD">
+      <Parameter Name="mahd" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="XOANV">
+      <Parameter Name="id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="XOASANPHAM">
+      <Parameter Name="masp" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="XOATK">
+      <Parameter Name="tentk" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SPKHONGBANDUOC_Result">
+    <Property Type="String" Name="TenSP" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="MaSP" Nullable="false" MaxLength="3" />
+    <Property Type="String" Name="Loai" Nullable="true" MaxLength="5" />
+    <Property Type="String" Name="Size" Nullable="true" MaxLength="3" />
+    <Property Type="Int32" Name="SoLuong" Nullable="true" />
+    <Property Type="Decimal" Name="DonGia" Nullable="true" Precision="19" />
+    <Property Type="String" Name="Anh" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="TrangThai" Nullable="true" />
+    <Property Type="Int32" Name="GiamGia" Nullable="true" />
+  </ComplexType>
+</Schema>

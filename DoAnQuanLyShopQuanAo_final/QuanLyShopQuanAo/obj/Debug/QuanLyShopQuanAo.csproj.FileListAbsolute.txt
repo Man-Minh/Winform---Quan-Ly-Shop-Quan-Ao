@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.fLogin.resources
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\admin\Desktop\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb

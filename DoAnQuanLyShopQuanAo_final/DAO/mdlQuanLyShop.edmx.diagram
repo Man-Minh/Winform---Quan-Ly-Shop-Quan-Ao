@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a67614b1004d4233aa774e07d3003db6" Name="Diagram1">
+        <EntityTypeShape EntityType="ShopQuanAoModel.CT_HoaDon" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopQuanAoModel.HoaDon" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopQuanAoModel.NhanVien" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopQuanAoModel.QuanAo" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopQuanAoModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopQuanAoModel.TaiKhoan" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="ShopQuanAoModel.FK__CT_HoaDon__MaHD__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopQuanAoModel.FK__CT_HoaDon__MaSP__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopQuanAoModel.FK__HoaDon__IDNVien__4222D4EF" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
